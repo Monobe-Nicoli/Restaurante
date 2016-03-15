@@ -1,7 +1,7 @@
 # TE-Restaurante
 Windows Forms Restaurant application
 
-Contributors:
+Pair-programmed by:
 - Felipe Monobe [@FelipeMonobe](https://github.com/FelipeMonobe/)
 - Letticia Nicoli [@LetticiaNicoli](https://github.com/LetticiaNicoli/)
 
